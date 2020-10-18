@@ -1,2 +1,1 @@
-# task0
- internship
+# SOM implementation
